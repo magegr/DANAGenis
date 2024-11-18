@@ -1,0 +1,8 @@
+Ejercicio 6 : mkdir catarroja alfafar paiporta massanasa
+Ejercicio 7 : cd catarroja y touch enero febrero marzo
+Ejercicio 8 : cd ../alfafar
+Ejercicio 9 : cp ../catarroja/enero .
+Ejercicio 10 : cd ../
+Ejercicio 11 : cp ../catarroja/* ../paiporta/
+Ejercicio 12 : rm *ro
+Ejercicio 13 : mv /home/dana/catarroja/enero /home/dana/massanasa/
