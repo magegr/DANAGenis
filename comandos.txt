@@ -6,3 +6,8 @@ Ejercicio 10 : cd ../
 Ejercicio 11 : cp ../catarroja/* ../paiporta/
 Ejercicio 12 : rm *ro
 Ejercicio 13 : mv /home/dana/catarroja/enero /home/dana/massanasa/
+Ejercicio 15 : git commit -m "" y git push
+Ejercicio 16 : mv enero abril
+Ejercicio 17 : cp abril ../hola
+Ejercicio 18 : cd paiporta/
+Ejercicio 19 : rm -r massanasa
